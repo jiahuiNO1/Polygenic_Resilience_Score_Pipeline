@@ -5,5 +5,4 @@
 3) calculating principle components;
 4) identifying individuals who were resilient to elevated polygenic risk;
 5) genome-wide association study (GWAS) meta-analysis;
-6) deriving polygenic resilience scores using risk-residual genetic variants;
-7) evaluating polygenic resilience scores    
+6) deriving and evaluating polygenic resilience scores using risk-residual genetic variants
